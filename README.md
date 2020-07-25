@@ -4,7 +4,7 @@
 
 Practice to nomadcoder clone project
 
-- site : 
+- site : https://jhseo-git.github.io/scss-z-o-o/
 - target : [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
 
 ## To Clone:
